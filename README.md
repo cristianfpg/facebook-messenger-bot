@@ -1,0 +1,1 @@
+Facebook Messenger integration with a webhook that interact with the user in a workflow to send relevant answers, the "bot" qualify the lead and if apply sent it to Hubspot with the relevant information.
